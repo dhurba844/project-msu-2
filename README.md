@@ -54,6 +54,6 @@ Link to application:(<https://sheltered-beyond-37589.herokuapp.com/view-recipe>)
 
 * Alison Williamson @alisonwilliamson
 
-<!-- * Dhurba Gc @dhurba844 -->
+* Dhurba Gc @dhurba844 
 
-<!-- * Scott Lagas @Scottiss -->
+* Scott Lagas @Scottiss 
